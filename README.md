@@ -1,6 +1,10 @@
 # Python_project_web_programming
-Realize TCP features with UDP sokect
-features includes:
+Realize TCP features with UDP sokect where :
+* `test_0/1/2.pdf` is the test file to be transfered.
+* sender.py and receiver.py is the final code for sender and receiver.
+* segment.py is the helper code
+* the log shows how the file has been transfered.
+# features includes:
 * Three shake hands
 * Reliable transfer data
 * Four segment tear down
